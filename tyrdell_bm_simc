@@ -1,0 +1,61 @@
+hunter="Tyrdell" name=Murder_of_Crows
+origin="https://eu.api.battle.net/wow/character/bloodhoof/Tyrdell/advanced"
+thumbnail="http://eu.battle.net/static-render/eu/bloodhoof/229/94968293-avatar.jpg"
+level=110
+race=human
+role=attack
+position=ranged_back
+professions=alchemy=780/herbalism=800
+talents=3112112
+artifact=56:0:0:0:0:868:3:869:3:870:3:871:3:872:3:873:3:874:3:875:3:876:1:877:1:878:1:879:1:880:1:881:1:882:1:1095:3:1336:1:1368:4
+spec=beast_mastery
+
+head=helm_of_endless_dunes,id=134471,bonus_id=3536/1547/3336
+neck=chain_of_scorched_bones,id=134529,bonus_id=3415/1808/1522/3337,gems=150mastery
+shoulders=thundercrush_pauldrons,id=134478,bonus_id=3417/1808/1512/1813,gems=150mastery
+back=cape_of_rigid_order,id=134402,bonus_id=3416/1808/1517/3336,gems=150mastery,enchant=150agi
+chest=tunic_of_screaming_earth,id=137354,bonus_id=3417/1808/1527/3337,gems=150mastery
+shirt=warders_shirt,id=20901
+wrists=bitestone_wristwrap,id=134164,bonus_id=3418/1542/3337
+hands=gloves_of_fleshshaping,id=134468,bonus_id=3536/1808/1552/3337,gems=150mastery
+waist=roar_of_the_seven_lions,id=137080,bonus_id=3455
+legs=roots_of_shaladrassil,id=132466,bonus_id=3459/3458
+feet=bitestone_boots,id=134166,bonus_id=3510/1547/3337
+finger1=gnawed_thumb_ring,id=134526,bonus_id=3535/1808/1532/1813,gems=150mastery
+finger2=loop_of_vitriolic_intent,id=134530,bonus_id=3510/1542/3337
+trinket1=rocksunder_lucky_statue,id=134159,bonus_id=3397/604/1522/3337
+trinket2=convergence_of_fates,id=140806,bonus_id=3516/1487/1813
+main_hand=titanstrike,id=128861,bonus_id=726,gem_id=137493/137379/137543/0,relic_id=3415:1522:3337/3412:1502:1813/3418:1532:3337/0
+
+main_hand=titanstrike,id=128861,bonus_id=726,gem_id=137493/137379/137543/0,ilevel=894
+# Gear Summary
+# gear_ilvl=886.27
+# gear_agility=20093
+# gear_stamina=29537
+# gear_crit_rating=4841
+# gear_haste_rating=9323
+# gear_mastery_rating=6040
+# gear_versatility_rating=2556
+# gear_armor=2854
+summon_pet=cat
+
+
+
+
+copy=Stampede_+_Murder
+talents=3112111
+
+copy=Volley
+talents=3112132
+
+copy=BlinkStrikes
+talents=3113112
+
+
+copy=BlinkStrike+Stampede+Volley
+talents=3113131
+
+
+enemy=enemy1
+enemy=enemy2
+enemy=enemy3
