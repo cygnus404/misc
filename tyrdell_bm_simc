@@ -25,9 +25,9 @@ finger1=gnawed_thumb_ring,id=134526,bonus_id=3535/1808/1532/1813,gems=150mastery
 finger2=loop_of_vitriolic_intent,id=134530,bonus_id=3510/1542/3337
 trinket1=rocksunder_lucky_statue,id=134159,bonus_id=3397/604/1522/3337
 trinket2=convergence_of_fates,id=140806,bonus_id=3516/1487/1813
-main_hand=titanstrike,id=128861,bonus_id=726,gem_id=137493/137379/137543/0,relic_id=3415:1522:3337/3412:1502:1813/3418:1532:3337/0
 
 main_hand=titanstrike,id=128861,bonus_id=726,gem_id=137493/137379/137543/0,ilevel=894
+
 # Gear Summary
 # gear_ilvl=886.27
 # gear_agility=20093
